@@ -1,8 +1,8 @@
 {
-    "name": "solitaire",
+    "name": "solitaire-copy",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://swapnillothe.github.io/Solitaire/",
+    "homepage": "https://swapnillothe.github.io/solitaire-copy/",
     "dependencies": {
         "react": "^16.8.6",
         "react-dom": "^16.8.6",
